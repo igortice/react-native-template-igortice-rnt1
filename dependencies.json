@@ -1,3 +1,9 @@
 {
-  "axios": "latest"
+  "react-native-animatable": "latest",
+  "axios": "latest",
+  "native-base": "latest",
+  "react-native-easy-grid": "latest",
+  "react-native-router-flux": "latest",
+  "react-native-typography": "latest",
+  "react-native-vector-icons": "latest"
 }
