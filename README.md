@@ -2,7 +2,8 @@
   <h3 align="center">React Native Template 1</h3>
 </p>
 
-### Extensões
+## Extensões
+
 - [Animatable](https://github.com/oblador/react-native-animatable) - Animations
 - [Axios](https://github.com/axios/axios) - HTTP Client
 - [Easy Grid](https://github.com/GeekyAnts/react-native-easy-grid) - Flexbox Grid
