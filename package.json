@@ -6,7 +6,8 @@
     "react-native",
     "template",
     "axios",
-    "redux"
+    "redux",
+    "native-base"
   ],
   "repository": {
     "type": "git",

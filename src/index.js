@@ -1,13 +1,6 @@
-import {Text, View} from 'react-native';
-
 import React from 'react';
+import Routes from './routes';
 
-const App = () => {
-  return (
-    <View>
-      <Text>Base Template 1</Text>
-    </View>
-  );
-};
+const App = () => <Routes />;
 
 export default App;
