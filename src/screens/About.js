@@ -10,7 +10,7 @@ const About = () => {
       <Text style={[material.display3, {textAlign: 'center'}]}>
         About Screen
       </Text>
-      <Button onPress={() => Actions.home()} title="Go to Home" />
+      <Button onPress={() => Actions.home()} title={'Go to Home'} />
     </View>
   );
 };

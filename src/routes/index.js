@@ -7,9 +7,9 @@ import TransitionConfig from './TransitionConfig';
 
 const Routes = () => (
   <Router>
-    <Stack key="root" hideNavBar transitionConfig={TransitionConfig}>
-      <Scene key="home" component={Home} title="Home" />
-      <Scene key="about" component={About} title="About" />
+    <Stack key={'root'} hideNavBar transitionConfig={TransitionConfig}>
+      <Scene key={'home'} component={Home} title={'Home'} />
+      <Scene key={'about'} component={About} title={'About'} />
     </Stack>
   </Router>
 );

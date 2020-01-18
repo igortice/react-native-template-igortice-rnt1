@@ -1,0 +1,12 @@
+{
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "editor.autoClosingOvertype": "always",
+    "editor.autoClosingQuotes": "always",
+    "prettier.printWidth": 120,
+    "prettier.jsxBracketSameLine": true,
+    "editor.autoClosingBrackets": "always",
+    "prettier.quoteProps": "consistent"
+}
